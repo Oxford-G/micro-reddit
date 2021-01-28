@@ -4,8 +4,6 @@
 # Micro-reddit
 This project consists of creating a light weight version of reddit called micro-reddit with emphasis in the model part of Ruby on Rails, data modeling and testing our active record knowledge or ORM('object relational mapping')
 
-**User table**
-
 ![Schema layout](app/assets/images/schema.png)
 
 ## This project has the following features:
