@@ -6,15 +6,7 @@ This project consists of creating a light weight version of reddit called micro-
 
 **User table**
 
-![user table in Rails console](app/assets/images/User_table.png)
-
-**Post table**
-
-![post table in Rails console](app/assets/images/Post_table.png)
-
-**Comment table**
-
-![comment table in Rails console](app/assets/images/User_table.png)
+![Schema layout](app/assets/images/schema.png)
 
 ## This project has the following features:
 
